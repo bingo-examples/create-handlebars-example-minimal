@@ -1,0 +1,11 @@
+{
+  "name": "create-handlebars-example-minimal",
+  "version": "0.0.0",
+  "type": "module",
+  "bin": "index.js",
+  "dependencies": {
+    "bingo": "^0.5.6",
+    "bingo-handlebars": "^0.1.0",
+    "zod": "^3.24.2"
+  }
+}

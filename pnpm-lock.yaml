@@ -1,0 +1,16 @@
+lockfileVersion: '9.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+overrides:
+  bingo: link:../bingo/packages/bingo
+
+importers:
+
+  .:
+    dependencies:
+      bingo:
+        specifier: link:../bingo/packages/bingo
+        version: link:../bingo/packages/bingo
